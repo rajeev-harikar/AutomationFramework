@@ -31,6 +31,7 @@ public class LoginPage {
 		loginbtn.click();
 		Thread.sleep(1000);
 	    Assert.assertEquals(" Pismo beach ", " Pismo beach ");
+	    Assert.assertEquals(" Pismo beach ", " Pismo beach ");
 	}
 	
 
